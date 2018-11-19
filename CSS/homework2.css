@@ -1,0 +1,160 @@
+/* homework 2 */
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #113041
+}
+
+h1 {
+    font-size: 2rem;
+    border: solid 12px #FFFFFF;
+    color: orange;  
+    text-align: center;
+    width: 20%;
+    padding: 1rem;
+    margin: 2rem auto;
+    margin-bottom: 5rem;
+}
+nav {
+    border-top: 1px solid grey;
+    border-bottom: 1px solid grey;
+    margin: 0.5rem;
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+nav li {
+    display: inline-block;
+    margin: 1rem;
+}
+nav a {
+    text-decoration: none;
+    display: block;
+    padding: 0.5rem 1rem;
+    color: #dce1f4;
+}
+.image {
+    float: left;
+    padding: 0;
+    margin: 2rem 2rem 1rem 0;
+}
+.separator {
+    text-align: center;
+    clear: both;
+    margin: 1rem 0 1rem 0;
+}
+p {
+    line-height: 1.7rem;
+    padding-left: 0.5rem;
+}
+.p1 {
+    text-align: left;
+    color: yellow;
+    font-size: 1.4rem;
+    margin-top: 9rem;
+    padding-top: 2rem; 
+} 
+.p2 {
+    text-align: left;
+    color: yellow;
+    font-size: 1.4rem;
+    margin-top: 10rem;
+    padding-top: 2rem;
+}
+.tag {
+    text-align: center;
+    color: turquoise;
+    border: 5px dotted coral;
+    font-size: 1.5rem;
+} 
+.p3, .p4 {
+    display: block;
+    text-align: center;
+    clear: both;
+    color: turquoise;
+}
+.p5, .p6, .p7 {
+    color: chocolate;
+    text-align: left;
+}
+.p8, .p9, .p10 {
+    color: turquoise;
+    text-align: left;
+}
+.p8 {
+    border-top: 1px solid black;
+    padding-top: 1rem;
+}
+.p9 {
+    border-top: 1px solid black;
+    padding-top: 1rem;
+}
+.p11, .p12, .p13 {
+    color: tan;
+    text-align: center
+}
+.p14, .p15, .p16 {
+    color: silver;
+    text-align: left;
+}
+.p17, .p18 {
+    color: springgreen;    
+}
+.p19 {
+    font-size: 0.9rem;
+    color: aquamarine;
+    text-align: center;
+}
+q {
+    font-weight: bold;
+    color: yellow;
+    font-style: italic;
+    background-color: green;
+}
+blockquote {
+    font-style: italic;
+    color: red;
+    text-align: center;
+    line-height: 1.4rem;
+    border: 3px dashed black;
+}
+strong {
+    font-weight: bold;
+    color: red;
+    text-decoration: underline;
+    font-size: 2.5rem;
+}
+.book {
+    font-weight: bold;
+    font-size: 1.8rem;
+    color: brown;
+}
+em {
+    font-size: 1.2rem;
+    font-style: italic;
+    color: orange;
+    text-decoration: underline;
+}
+a:visited {
+    color: magenta;
+    font-weight: normal;
+}
+a:hover {
+    color: pink;
+    text-decoration: underline;
+    background-color: black;
+}
+ul {
+    list-style-type: none;
+    margin: 1rem 0 1rem 0;
+}
+li {
+    color: grey;
+    font-style: italic;
+    line-height: 1.5rem;
+    text-align: center;
+}
+

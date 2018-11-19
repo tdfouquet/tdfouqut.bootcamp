@@ -1,0 +1,84 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+    margin: 0.5rem;
+    background-color: #dce1f4;
+    color: green;
+}
+p {
+    line-height: 1.7rem;
+    padding-left: 0.5rem;
+}
+h1 {
+    font-size: 2rem;
+    border: 12px solid white;
+    background-color: grey;
+    color: orange;
+    text-align: center;
+    padding: 1rem;
+    margin: 2rem auto;
+    width: 20%;
+}
+nav {
+    border-top: 1px solid grey;
+    border-bottom: 1px solid grey;
+    margin: 0.5rem;
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+nav li {
+    display: inline-block;
+    margin: 1rem;
+}
+nav a {
+    text-decoration: none;
+    display: block;
+    padding: 0.5rem 1rem;
+    color: #dce1f4;
+}
+img {
+    float: left;
+    margin: 0 3rem 1rem 0;
+    padding: 0 3rem 1rem 0;
+}
+ul {
+    list-style-type: none;
+    margin: 1rem 0 1rem 0;
+}
+li {
+    color: #113041;
+    font-style: italic;
+    line-height: 1.5rem;
+    text-align: center;
+    margin-bottom: 1rem;
+}
+div {
+    text-align: center;
+}
+q {
+    font-style: italic;
+    border: 3px dashed darkorchid;
+    line-height: 1rem;
+    color: pink;
+    padding: 1rem;
+    margin-top: 1rem;
+}
+cite {
+    text-align: center;
+    font-style: normal;
+    line-height: 1rem;
+    margin: 0 auto;
+}
+a:visited {
+    color: magenta;
+    font-weight: normal;
+}
+a:hover {
+    color: coral;
+    text-decoration: underline;
+    background-color: black;
+}
